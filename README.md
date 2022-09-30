@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Software Development 559 @ Mohawk College
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on anything! I'm free to help out!
+- 🤔 I’m looking for help with faking ad APIs on my home network so that mobile games still think I watched ads :P
+- 💬 Ask me about Data Collection from 10000+ CPEs! Especially cable modems!
+- 📫 How to reach me: email me through github or find me on discord
+- 😄 Pronouns: He/Him (i'm just a guy, what can I say?)
+- ⚡ Fun fact: I went back to school just before the global pandemic!
+
 <!--
 **dougimus/dougimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
